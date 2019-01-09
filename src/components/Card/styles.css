@@ -1,0 +1,75 @@
+.card {
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 3px;
+    width: 350px;
+    margin-bottom: 4%;
+}
+
+.card-header{
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    background-color: rgb(236, 239, 241);
+    display: flex;
+    clear: both;
+    text-align: center;
+}
+
+.card-footer{
+    padding: 5%;
+}
+
+.card-favourite-icon{
+    padding:5%;
+    width:20%;
+}
+.favouriteIcon:hover {
+    background: white;
+    padding: 1px;
+    border-radius: 50%;
+}
+
+.card-image-container{
+    padding:5%;
+    width:40%;
+}
+
+.card-info-icon{
+    padding:5%;
+    width:20%;
+}
+
+.cardAdd:hover{
+    background: white;
+    padding: 1px;
+    border-radius: 50%;
+}
+
+.card-add-icon{
+    padding:5%;
+    width:20%;
+}
+
+.card-favourite-icon img {
+    height:25px;
+    width:25px;
+}
+
+.card-image-container img {
+    height:180px;
+}
+
+.card-info-icon img {
+    height:25px;
+    width:25px;
+}
+
+.card-add-icon img {
+    height:25px;
+    width:25px;
+}
+
+
+
+
+
+
+

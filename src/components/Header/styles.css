@@ -1,0 +1,22 @@
+.header-container {
+    background-color: #4e67d8;
+    text-align: center;
+    height: 150px;
+    padding: 35px;
+}
+
+.header-text {
+    color:rgb(209, 209, 102);
+    display: inline-block;
+}
+
+.header-image-container {
+    display: inline-block;
+    margin-right: 1%;
+    vertical-align: text-bottom;
+}
+
+.image {
+    height: 40px;
+}
+

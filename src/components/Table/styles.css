@@ -1,0 +1,28 @@
+.table-beer {
+    width: 90%;
+    margin-left: 2%;
+    font-size: 16px;
+    margin-bottom: 2%;
+}
+
+thead th {
+    border-bottom: 2px solid #b4b4b4;
+    height: 50px;
+    text-align: center;
+}
+
+td {
+    height: 150px;
+    text-align: center;
+}
+  
+tr:hover {
+    background-color: #ddd;
+}
+
+.tableButton:hover {
+    background: white;
+    padding: 5px;
+    border-radius: 50%;
+}
+  
